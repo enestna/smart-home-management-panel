@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\AkilliEvOtomasyonu\AkilliEvOtomasyonu\bin\Debug\AkilliEvOtomasyonu.exe.config
+C:\Users\Asus\source\repos\AkilliEvOtomasyonu\AkilliEvOtomasyonu\bin\Debug\AkilliEvOtomasyonu.exe
+C:\Users\Asus\source\repos\AkilliEvOtomasyonu\AkilliEvOtomasyonu\bin\Debug\AkilliEvOtomasyonu.pdb
+C:\Users\Asus\source\repos\AkilliEvOtomasyonu\AkilliEvOtomasyonu\obj\Debug\AkilliEvOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\AkilliEvOtomasyonu\AkilliEvOtomasyonu\obj\Debug\AkilliEvOtomasyonu.Properties.Resources.resources
+C:\Users\Asus\source\repos\AkilliEvOtomasyonu\AkilliEvOtomasyonu\obj\Debug\AkilliEvOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\AkilliEvOtomasyonu\AkilliEvOtomasyonu\obj\Debug\AkilliEvOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\AkilliEvOtomasyonu\AkilliEvOtomasyonu\obj\Debug\AkilliEvOtomasyonu.exe
+C:\Users\Asus\source\repos\AkilliEvOtomasyonu\AkilliEvOtomasyonu\obj\Debug\AkilliEvOtomasyonu.pdb
+C:\Users\Asus\source\repos\AkilliEvOtomasyonu\AkilliEvOtomasyonu\obj\Debug\AkilliEvOtomasyonu.FrmAnaMenu.resources
+C:\Users\Asus\source\repos\AkilliEvOtomasyonu\AkilliEvOtomasyonu\obj\Debug\AkilliEvOtomasyonu.FrmCihazlar.resources
+C:\Users\Asus\source\repos\AkilliEvOtomasyonu\AkilliEvOtomasyonu\obj\Debug\AkilliEvOtomasyonu.FrmOdalar.resources
+C:\Users\Asus\source\repos\AkilliEvOtomasyonu\AkilliEvOtomasyonu\obj\Debug\AkilliEvOtomasyonu.FrmKapaliCihazlar.resources
+C:\Users\Asus\source\repos\AkilliEvOtomasyonu\AkilliEvOtomasyonu\obj\Debug\AkilliEvOtomasyonu.FrmAcikCihazlar.resources
