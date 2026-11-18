@@ -2,11 +2,16 @@
 
 A Windows Forms desktop application for managing the rooms and devices of a smart home, backed by Microsoft SQL Server. The user interface is in Turkish.
 
+![Device management screen](docs/screenshots/devices.png)
+
 ## Features
 - **Room management:** add, update, delete and list rooms
 - **Device management:** add, update and delete devices with their room, power consumption (watts) and status (on/off)
 - **Status views:** separate screens for devices that are currently on and devices that are off
 - **Safe queries:** all database queries are parameterized, which protects against SQL injection
+
+## Screenshots
+![Main menu](docs/screenshots/main-menu.png)
 
 ## Tech stack
 C# · .NET Framework 4.7.2 · Windows Forms · Microsoft SQL Server (ADO.NET)
