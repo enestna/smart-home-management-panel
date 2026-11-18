@@ -1,0 +1,10 @@
+# Visual Studio build outputs and user files
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Windows
+desktop.ini
+Thumbs.db
